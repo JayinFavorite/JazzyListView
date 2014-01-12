@@ -1,6 +1,12 @@
 JazzyListView
 -------------
 
+JazzyListView ListView及GridView item以特殊动画效果进入屏幕，效果包括grow、cards、curl、wave、flip、fly等等
+
+项目地址：https://github.com/twotoasters/JazzyListView
+Demo地址：https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample
+效果展示：http://lab.hakim.se/scroll-effects/
+
 JazzyListView is an extension of ListView designed to animate list item views as
 they become visible. There are a number of pre-built, bundled effects that can be used
 by setting the effect in code or an XML layout attribute. Also, it is possible to use a
